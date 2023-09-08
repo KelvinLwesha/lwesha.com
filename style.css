@@ -9,8 +9,6 @@ body{
 	color:white;
 	width: 100%;
 }
-.calltext{
-	color:black;
 h1{
 	margin-top: -5px;
 }
@@ -23,7 +21,6 @@ ul,li{
 	text-align: right;
 	background-color:grey;
 	color: white;
-	height:40px
 
 }
 a{
@@ -59,13 +56,14 @@ margin-top: 150px;
 @media only screen and (max-height:600px){
 	.menu{
 	margin-top: -15px;
-	width: 600px;
+	text-align: right;
+	width: 400px;
 	background-color:grey;
 	color: white;
 }
 .menulink{
 	margin-top: -24px;
-	overflow-x:scroll;
+	overflow-x: auto;
 }
 }
 .menu-link1,
