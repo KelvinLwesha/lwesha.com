@@ -64,7 +64,13 @@ margin-top: 150px;
 .menulink{
 	margin-top: -24px;
 	overflow-x:scroll;
-	overflow-y:hidden;
+}
+.menu-link1,
+.menu-link2,
+.menu-link3,
+.menu-link4,
+.menu-link5{
+	margin-right:-10px;
 }
 }
 .menu-link1,
