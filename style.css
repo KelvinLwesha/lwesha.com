@@ -63,8 +63,7 @@ margin-top: 150px;
 }
 .menulink{
 	margin-top: -24px;
-	overflow-x: auto;
-	margin-left:-10px;
+	overflow-x:scroll;
 }
 }
 .menu-link1,
