@@ -18,9 +18,10 @@ ul,li{
 }
 .menu{
 	margin-top: -28px;
-	text-align: right;
 	background-color:grey;
 	color: white;
+	height:30px;
+	overflow-x:auto;
 }
 a{
 	text-decoration: none;	
@@ -51,13 +52,6 @@ margin-top: 150px;
 }
 .menulink{
 	margin:auto;
-}
-@media only screen and (max-width:400px){
-	.menu{
-	margin-top: -15px;
-	width: 600px;
-	background-color:grey;
-	color: white;
 }
 .menulink{
 	margin-top: -24px;
