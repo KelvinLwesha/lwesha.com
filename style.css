@@ -52,7 +52,7 @@ margin-top: 150px;
 .menulink{
 	margin:auto;
 }
-@media only screen and (max-height:600px){
+@media only screen and (max-width:400px){
 	.menu{
 	margin-top: -15px;
 	width: 600px;
