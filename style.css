@@ -53,16 +53,6 @@ margin-top: 150px;
 .menulink{
 	margin:auto;
 }
-@media only screen and (max-height:600px){
-	.menu{
-	margin-top: -15px;
-	text-align: right;
-	width: 400px;
-	background-color:grey;
-	color: white;
-	overflow-x:scroll;
-	height:40px;
-}
 .menulink{
 	margin-top: -24px;
 	overflow-x: auto;
