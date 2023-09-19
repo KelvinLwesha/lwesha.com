@@ -17,7 +17,7 @@ ul,li{
 	display: inline-block;
 }
 .menu{
-	margin-top: -28px;
+	margin-top:0px;
 	background-color:grey;
 	color: white;
 	overflow-x:auto;
