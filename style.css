@@ -56,5 +56,26 @@ body{
 	max-width: 98%;
 	background-color: white;
 	margin-bottom: 20px;
-
+}
+.icontele,
+.iconface,
+.iconinsta,
+.iconwhat{
+	margin-right:20px;
+}
+.iconwhat{
+	color:green;
+	font-size:20px;
+}
+.iconface{
+	color:blue;
+	font-size:20px;
+}
+.iconinsta{
+	color:yellow;
+	font-size:20px;
+}
+.icontele{
+	color:midnightblue;
+	font-size:20px;
 }
