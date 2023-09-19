@@ -79,3 +79,13 @@ body{
 	color:midnightblue;
 	font-size:20px;
 }
+.colorsocial{
+	margin:auto;
+	max-width:300px;
+	background-color:white;
+}
+.bout,
+.contn{
+	text-decoration:none;
+	background-color:white;
+}
