@@ -18,9 +18,10 @@ ul,li{
 }
 .menu{
 	margin-top: -28px;
-	text-align: right;
 	background-color:grey;
 	color: white;
+	overflow-x:auto;
+	height:15px;
 
 }
 a{
