@@ -58,6 +58,10 @@ body{
 .med{
 	color: orangered;
 }
+.iconrearrange{
+	margin:auto;
+	max-width:100px;
+}
 .formex{
 	margin: auto;
 	max-width: 98%;
