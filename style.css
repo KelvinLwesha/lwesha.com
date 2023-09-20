@@ -43,6 +43,13 @@ body{
 .header2{
 	color: green;
 }
+.headcont{
+	margin:auto;
+	max-width:300px;
+	text-align:center;
+	background-color:darkgreen;
+	color:white;
+}
 .text,
 .text1{
 	font-family: 'Bondon' , cursive;
