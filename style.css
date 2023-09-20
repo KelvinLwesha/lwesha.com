@@ -68,8 +68,13 @@ body{
 .iconface,
 .iconinsta,
 .iconwhat{
-	margin-right:20px;
+	margin-right:30px;
 }
+.whaticon,
+.faceicon,
+.intaicon,
+.teleicon{
+	font-size:30px;
 .calltext,
 .lweshatext{
 	text-decoration:none;
